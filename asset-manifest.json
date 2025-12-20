@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-build/static/css/main.893d7222.css",
+    "main.js": "/test-build/static/js/main.776cd953.js",
+    "static/js/439.39aeb095.chunk.js": "/test-build/static/js/439.39aeb095.chunk.js",
+    "static/js/354.4e9deb3a.chunk.js": "/test-build/static/js/354.4e9deb3a.chunk.js",
+    "static/js/632.307467a9.chunk.js": "/test-build/static/js/632.307467a9.chunk.js",
+    "static/js/529.6c940f00.chunk.js": "/test-build/static/js/529.6c940f00.chunk.js",
+    "static/js/613.f7b20c7c.chunk.js": "/test-build/static/js/613.f7b20c7c.chunk.js",
+    "static/js/522.482b6dd7.chunk.js": "/test-build/static/js/522.482b6dd7.chunk.js",
+    "static/js/167.c5f562f0.chunk.js": "/test-build/static/js/167.c5f562f0.chunk.js",
+    "static/js/553.745a9203.chunk.js": "/test-build/static/js/553.745a9203.chunk.js",
+    "static/js/57.57289143.chunk.js": "/test-build/static/js/57.57289143.chunk.js",
+    "static/js/445.69b730d2.chunk.js": "/test-build/static/js/445.69b730d2.chunk.js",
+    "static/js/217.65e72760.chunk.js": "/test-build/static/js/217.65e72760.chunk.js",
+    "static/js/282.035d308e.chunk.js": "/test-build/static/js/282.035d308e.chunk.js",
+    "index.html": "/test-build/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.893d7222.css",
+    "static/js/main.776cd953.js"
+  ]
+}
